@@ -48,6 +48,7 @@
         <PackageReference Include="Soenneker.Utils.File" Version="4.0.2292" />
         <PackageReference Include="Soenneker.Utils.Directory" Version="4.0.949" />
         <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="10.0.12" />
-        <PackageReference Include="Soenneker.Esbuild.Util" Version="4.0.2-local" />
+        <PackageReference Include="Soenneker.Esbuild.Util" Version="4.0.2" />
     </ItemGroup>
 </Project>
+
