@@ -46,10 +46,10 @@
     <ItemGroup>
         <PackageReference Include="Soenneker.Extensions.Task" Version="4.0.139" />
         <PackageReference Include="Soenneker.Extensions.ValueTask" Version="4.0.132" />
-        <PackageReference Include="Soenneker.Utils.File" Version="4.0.2315" />
-        <PackageReference Include="Soenneker.Utils.Directory" Version="4.0.963" />
+        <PackageReference Include="Soenneker.Utils.File" Version="4.0.2316" />
+        <PackageReference Include="Soenneker.Utils.Directory" Version="4.0.965" />
         <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="10.0.13" />
-        <PackageReference Include="Soenneker.Esbuild.Util" Version="4.0.14" />
+        <PackageReference Include="Soenneker.Esbuild.Util" Version="4.0.15" />
     </ItemGroup>
 </Project>
 
