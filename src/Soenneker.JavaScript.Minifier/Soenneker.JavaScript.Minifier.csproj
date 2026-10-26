@@ -44,11 +44,11 @@
     </ItemGroup>
 
     <ItemGroup>
-        <PackageReference Include="Soenneker.Extensions.Task" Version="4.0.140" />
+        <PackageReference Include="Soenneker.Extensions.Task" Version="11.0.141" />
         <PackageReference Include="Soenneker.Extensions.ValueTask" Version="4.0.133" />
-        <PackageReference Include="Soenneker.Utils.File" Version="4.0.2320" />
-        <PackageReference Include="Soenneker.Utils.Directory" Version="4.0.967" />
-        <PackageReference Include="Soenneker.Esbuild.Util" Version="4.0.23" />
+        <PackageReference Include="Soenneker.Utils.File" Version="11.0.2325" />
+        <PackageReference Include="Soenneker.Utils.Directory" Version="11.0.969" />
+        <PackageReference Include="Soenneker.Esbuild.Util" Version="11.0.25" />
     </ItemGroup>
 </Project>
 
