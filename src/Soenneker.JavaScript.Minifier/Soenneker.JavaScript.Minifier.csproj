@@ -47,9 +47,9 @@
     <ItemGroup>
         <PackageReference Include="Soenneker.Extensions.Task" Version="11.0.143" />
         <PackageReference Include="Soenneker.Extensions.ValueTask" Version="11.0.137" />
-        <PackageReference Include="Soenneker.Utils.File" Version="11.0.2345" />
+        <PackageReference Include="Soenneker.Utils.File" Version="11.0.2346" />
         <PackageReference Include="Soenneker.Utils.Directory" Version="11.0.982" />
-        <PackageReference Include="Soenneker.Esbuild.Util" Version="11.0.62" />
+        <PackageReference Include="Soenneker.Esbuild.Util" Version="11.0.63" />
     </ItemGroup>
 </Project>
 
